@@ -12,5 +12,4 @@ This small object detector is multi-scale and rotation invariant. The user speci
 2. Detections \
 ![alt text](https://github.com/NonStopEagle137/Blob-based-Small-object-counter/blob/main/Images/blob_counter.jpg?raw=true)
 
-# License and Permissions.
-You are not authorized to use this project or any part of this project, in any form whether original or modified for any commercial purposes. If you intend to use it for commercial purposes, contact me at : athrva98@gmail.com
+
